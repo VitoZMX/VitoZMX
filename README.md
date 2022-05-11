@@ -22,19 +22,18 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="JavaScript" width="26px" src="img/js.svg" />
-<img align="left" alt="HTML5" width="26px" src="img/html.svg" />
-<img align="left" alt="CSS3" width="26px" src="img/css.svg" />
-<img align="left" alt="React" width="26px" src="img/react.svg" />
-<img align="left" alt="Redux" width="26px" src="img/redux.svg" />
-<img align="left" alt="Sass" width="26px" src="img/sass.svg" />
-<img align="left" alt="WebPack" width="26px" src="img/webpack.svg" />
-<img align="left" alt="FireBase" width="26px" src="img/firebase.svg" />
-<img align="left" alt="Figma" width="26px" src="img/figma.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="img/vscode.svg" />
-<img align="left" alt="WebStorm" width="26px" src="img/webStorm.svg" />
+<img align="left" alt="JavaScript" width="28px" src="img/js.svg" />
+<img align="left" alt="HTML5" width="28px" src="img/html.svg" />
+<img align="left" alt="CSS3" width="28px" src="img/css.svg" />
+<img align="left" alt="React" width="28px" src="img/react.svg" />
+<img align="left" alt="Redux" width="28px" src="img/redux.svg" />
+<img align="left" alt="Sass" width="28px" src="img/sass.svg" />
+<img align="left" alt="WebPack" width="28px" src="img/webpack.svg" />
+<img align="left" alt="FireBase" width="28px" src="img/firebase.svg" />
+<img align="left" alt="Figma" width="28px" src="img/figma.svg" />
+<img align="left" alt="Visual Studio Code" width="28px" src="img/vscode.svg" />
+<img align="left" alt="WebStorm" width="28px" src="img/WebStorm.svg" />
 
-<br />
 <br />
 
 ### Statistics:
